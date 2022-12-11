@@ -1,5 +1,5 @@
 import { renderHook, waitFor } from '@testing-library/react';
-import { useFetchGifs } from '../../../src/hooks/useFetchGifs';
+import { useFetchGifs } from '../../src/hooks/useFetchGifs';
 
 describe('useFetchGifs custom hook', () => { 
 
